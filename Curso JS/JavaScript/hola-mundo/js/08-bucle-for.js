@@ -1,0 +1,11 @@
+"use strict"
+
+//BUCLE FOR
+
+for(var i = 0; i <= 100 ; i++ ){
+    if(i%2 == 0){
+        console.log(i);
+    }
+}
+
+//debugger ME SIRVE PARA VER LO QUE PASA ADENTRO DEL BUCLE
